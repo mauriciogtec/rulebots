@@ -44,7 +44,7 @@ save_interval: 1
 # the interval to save the model
 
 # PPO specific arguments
-env_id: "Uganda"
+env_id: "BuySell"
 # the id of the environment
 total_timesteps: 10000  # 50x reduction
 # total timesteps of the experiments
